@@ -100,6 +100,7 @@ public class PuntoDiezFunciones {
             for (int[] caso : pruebas3) {
                 algoritmo3(caso[0], caso[1], caso[2]);
             }
+
         }
         sc.close();
     }
